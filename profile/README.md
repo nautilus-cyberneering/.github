@@ -58,11 +58,15 @@ Current Objectives:
 - Become experts in version control system management for large binaries
 - Become experts in Python
 - Establish other necessary knowledge that needs to be acquired during the next project
+- Solve our collaborator's need
 
 Stage: POC
 Repositories: 
 - [Chinese Ideographs](https://github.com/Nautilus-Cyberneering/chinese-ideographs)  
 - [Chinese Ideographs Website](https://github.com/Nautilus-Cyberneering/chinese-ideographs-website)
+
+## Documentation
+All of our projects have documentation specific to themselves, such as contribution guidelines, etc.
 
 
 <!--
