@@ -1,4 +1,4 @@
-# Hi There 👋 --- Welcome to our Organization's GitHub Page
+# Hi There 👋 --- Welcome to our Organization's GitHub Page --- 
 
 ## Who We Are
 
@@ -20,7 +20,7 @@ Essentially, we care for:
 - The responsible use of technology
 - Nature
 
-Given this we strive to create value with everything that we and share it with the community and we operate according to these values.
+Given this we operate according to these values and we strive to create value with everything we do and share it with the community.
 
 ## Where are we located
 
@@ -37,16 +37,32 @@ We intend to:
 
 All this so that the community learns, teaches and drives the direction and evolution of solutions, and this without any external influences.
 
- 
+## Our Projects
+
+Each of our current projects has a specific purpose to address core elements that we need to learn to realize our long term vision.
+
+## Long term Projects Overview
+
+This is a link to our [first long-term project's roadmap repository](https://github.com/Nautilus-Cyberneering/ai_assistant_roadmap).
 
 
+### Current Stepping Stone Projects:
 
+With everything we do we attempt to creat value from the start. In this case we are helping a collaborating company in solving one of their needs, and at the same time we are learning about one of the key components that we will require to realize our vision.
 
+1. The Creation of a Simple Media Management System through GitHub Repositories - [read more](https://github.com/Nautilus-Cyberneering/chinese-ideographs/blob/main/README.md)
 
+Current Objectives: 
+- Become experts in managing large amounts of interlinked GitHub repositories
+- Become experts in GitHub actions and workflows
+- Become experts in version control system management for large binaries
+- Become experts in Python
+- Establish other necessary knowledge that needs to be acquired during the next project
 
-
-
-
+Stage: POC
+Repositories: 
+- [Chinese Ideographs](https://github.com/Nautilus-Cyberneering/chinese-ideographs)  
+- [Chinese Ideographs Website](https://github.com/Nautilus-Cyberneering/chinese-ideographs-website)
 
 
 <!--
