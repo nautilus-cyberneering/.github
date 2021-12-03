@@ -32,7 +32,7 @@ We just started our journey together in 2021. We have just taken the first steps
 
 ### Years 2022-2023
 We intend to:
-- Bring the power of AI directly to the end user on his local desktop with modular extensions and plaftorm to create these
+- Bring the power of AI directly to the end user on his local desktop with modular extensions and a plaftorm to create these
 - Create a community around our product and platform to further develop our vision and make it its own
 
 All this so that the community learns, teaches and drives the direction and evolution of solutions, and this without any external influences.
@@ -48,7 +48,8 @@ This is a link to our [first long-term project's roadmap repository](https://git
 
 ### Current Stepping Stone Projects:
 
-With everything we do we attempt to creat value from the start. In this case we are helping a collaborating company in solving one of their needs, and at the same time we are learning about one of the key components that we will require to realize our vision.
+With everything we do we attempt to create value from the start.   
+In this case we are helping a collaborating company in solving one of their needs, and at the same time we are learning about one of the key components that we will require to realize our vision.
 
 1. The Creation of a Simple Media Management System through GitHub Repositories - [read more](https://github.com/Nautilus-Cyberneering/chinese-ideographs/blob/main/README.md)
 
