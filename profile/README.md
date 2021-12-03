@@ -1,6 +1,6 @@
 # Hi There 👋 --- Welcome to our Organization's GitHub Page --- 
 
-## Who We Are
+## Who We Are :smiley: :alien: :sunglasses: 🙋‍♀️
 
 We are currently a small team of people working towards our long term vision. Our vision is to create open source software ecosystems, with a particular focus on AI and Machine Learning solutions.
 Our team is both made up of employees and external collaborators. We come from different professional backgrounds and countries. 
@@ -22,12 +22,12 @@ Essentially, we care for:
 
 Given this we operate according to these values and we strive to create value with everything we do and share it with the community.
 
-## Where are we located
+## Where are we located :earth_africa:
 
 Our company headquarters are located in Grünwald, a beautiful small town just outside of Munich, Germany. However, almost all of us are working remotely and we have team members in different countries.
 You will find us in Germany, Spain and China.
 
-## Our Journey
+## Our Journey :rocket:
 We just started our journey together in 2021. We have just taken the first steps of our journey to realize our vision.
 
 ### Years 2022-2023
@@ -37,16 +37,16 @@ We intend to:
 
 All this so that the community learns, teaches and drives the direction and evolution of solutions, and this without any external influences.
 
-## Our Projects
+## Our Projects  :bulb:
 
 Each of our current projects has a specific purpose to address core elements that we need to learn to realize our long term vision.
 
-## Long term Projects Overview
+### Long term Projects Overview  :telescope:  :dart:
 
 This is a link to our [first long-term project's roadmap repository](https://github.com/Nautilus-Cyberneering/ai_assistant_roadmap).
 
 
-### Current Stepping Stone Projects:
+### Current Stepping Stone Projects: :nut_and_bolt:
 
 With everything we do we attempt to create value from the start.   
 In this case we are helping a collaborating company in solving one of their needs, and at the same time we are learning about one of the key components that we will require to realize our vision.
@@ -66,7 +66,7 @@ Repositories:
 - [Chinese Ideographs](https://github.com/Nautilus-Cyberneering/chinese-ideographs)  
 - [Chinese Ideographs Website](https://github.com/Nautilus-Cyberneering/chinese-ideographs-website)
 
-## Documentation
+## Documentation :page_with_curl: :bar_chart:
 All of our projects have documentation specific to themselves, such as contribution guidelines, etc.
 
 
