@@ -91,7 +91,13 @@ This is the list of repositories directly related to the POCs during the develop
 
 ## Documentation :page_with_curl: :bar_chart:
 
-All of our projects have documentation specific to themselves, such as contribution guidelines, etc.
+All of our projects have documentation specific to themselves, such as contribution guidelines, etc. However, we have some General documentation of interest for contributors that relate to security and using GitHub listed below.
+
+<https://github.com/Nautilus-Cyberneering/GPG-Bootcamp>
+
+## Licenses
+
+The different repositories may have one or more licenses. These licenses can be found in a markdown file called "LICENSE.md"  in the main folders. In addition to this file, you may also find a folder called "Licensing". This folder is common when there is more than one applicable license. This can be the case when there is for example code and media in the same repository.
 
 <!--
 
