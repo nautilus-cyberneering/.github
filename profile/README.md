@@ -24,12 +24,12 @@ Essentially, we care for:
 
 Given this we operate according to these values and we strive to create value with everything we do and share it with the community.
 
-## Where are we located :earth_africa
+## Where are we located :earth_africa:
 
 Our company headquarters are located in Grünwald, a beautiful small town just outside of Munich, Germany. However, almost all of us are working remotely and we have team members in different countries.
 You will find us in Germany, Spain and China.
 
-## Our Journey :rocket
+## Our Journey :rocket:
 
 We just started our journey together in 2021. We have just taken the first steps of our journey to realize our vision.
 
