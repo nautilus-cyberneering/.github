@@ -79,15 +79,13 @@ This is the list of repositories directly related to the POCs during the develop
 
 - <https://github.com/Nautilus-Cyberneering/chinese-ideographs>
 - <https://github.com/Nautilus-Cyberneering/chinese-ideographs-website>
-- <https://github.com/Nautilus-Cyberneering/chinese-ideographs-scaffolding>
-- <https://github.com/Nautilus-Cyberneering/dvc-test-repo>
-- <https://github.com/Nautilus-Cyberneering/librarian-system-dockerfile>
-- <https://github.com/Nautilus-Cyberneering/nautilus-namecodes>
 
 #### Spin-offs
 
 - <https://github.com/Nautilus-Cyberneering/git-queue>
 - <https://github.com/Nautilus-Cyberneering/nautilus-librarian>
+- <https://github.com/Nautilus-Cyberneering/librarian-system-dockerfile>
+- <https://github.com/Nautilus-Cyberneering/nautilus-namecodes>
 
 ## Documentation :page_with_curl: :bar_chart:
 
