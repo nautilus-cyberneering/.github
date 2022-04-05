@@ -38,9 +38,9 @@ Additional home office equipment (table, chair)
 
 ### Salary Ranges Developers
 
-Juniors     18.000 - 25.000 €
-Middle      25.001 - 39.999 €
-Seniors     40.000 - 65.000 €
+- Juniors     18.000 - 25.000 €
+- Middle      25.001 - 39.999 €
+- Seniors     40.000 - 65.000 €
 
 ## Requirements
 
