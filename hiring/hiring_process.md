@@ -1,8 +1,10 @@
-# Hiring Process - Organic Growth through contributors
+# Hiring Process - Organic Growth through contributors :sun_with_face: :seedling: :tulip: :sunflower:
 
 At **Nautilus** we do many things differently. One of them is how we grow our team and how we define our team.
 
-As for our concept of team, it is made up of people who share one common interest: they choose to work on our projects to add value to the community because they believe in them and love to contribute to them.
+## Our concept of Team :raising_hand: :ok_woman: :woman:
+
+It is made up of people who share one common interest: they choose to work on our projects to add value to the community because they believe in them and love to contribute to them.
 
 Given this, we consider part of our team, our companies’ employees, in addition to all our external paid and unpaid contributors.
 
@@ -15,7 +17,7 @@ Now, paid contributors can be anyone whose contributions add value who are not j
 
 Unpaid contributors are also key to our project community’s progress. They actively add to our projects but do so in their spare time, for the sheer pleasure, and therefore not being able to spend more time on our projects.
 
-## Becoming an Employee or Paid Contributor :sunglasses: :raising_hand:
+## Becoming an Employee or Paid Contributor :sunglasses: :raising_hand: :clap:
 
 For us at Nautilus a passionate and interested contributor is someone who enjoys working on any of our repositories and shares our projects’ vision.
 
@@ -29,7 +31,7 @@ In Open-Source it is easy to see anyone’s involvement, so you just have to con
 
 To give you an idea of our employee work conditions here is a summarized overview:
 
-### Perks
+### Perks :mega:
 
 - Standard amount of vacation days equivalent to 23 work days
 - Flexible work time with availability for meetings in a specific time range.
@@ -37,13 +39,13 @@ To give you an idea of our employee work conditions here is a summarized overvie
 - Work equipment supplied by the company (computer, screens, mouse, keyboard, etc.)
 - Additional home office equipment (table, chair)
 
-### Salary Ranges Developers
+### Salary Ranges Developers :money_with_wings: :moneybag:
 
 - Juniors     18.000 - 25.000 €
 - Middle      25.001 - 39.999 €
 - Seniors     40.000 - 65.000 €
 
-## Requirements
+## Requirements :page_with_curl:
 
 Needs to reside in one of the countries that we operate in with one of our companies:
 
