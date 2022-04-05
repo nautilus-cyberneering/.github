@@ -1,6 +1,6 @@
 # Hiring Process - Organic Growth through contributors
 
-At Nautilus we do many things differently. One of them is how we grow our team and how we define our team.
+At **Nautilus** we do many things differently. One of them is how we grow our team and how we define our team.
 
 As for our concept of team, it is made up of people who share one common interest: they choose to work on our projects to add value to the community because they believe in them and love to contribute to them.
 
@@ -10,31 +10,32 @@ Our companies’ employees are contributors whom we have invited to receive a sa
 
 Now, paid contributors can be anyone whose contributions add value who are not joining Nautilus for personal reasons. Such contributors, we believe, add value and we choose to reward them monetarily for this. Such rewards can take different forms:
 
-- Donations(patreon, etc.)
+- Donations (patreon, etc.)
 - Invoice for freelancers
 
 Unpaid contributors are also key to our project community’s progress. They actively add to our projects but do so in their spare time, for the sheer pleasure, and therefore not being able to spend more time on our projects.
 
-## Becoming an Employee or Paid Contributor
+## Becoming an Employee or Paid Contributor :sunglasses: :raising_hand:
 
 For us at Nautilus a passionate and interested contributor is someone who enjoys working on any of our repositories and shares our projects’ vision.
 
-What we look for is proactive contributors. Someone who speaks up and suggests changes, makes improvements, etc. frequently and consistently.  Also, it does not matter if you are new to development or an experienced veteran if you are interested and involved in our projects we will notice you.
+What we look for is **proactive contributors**. Someone who speaks up and suggests changes, makes improvements, etc. frequently and consistently.  Also, it does not matter if you are new to development or an experienced veteran if you are interested and involved in our projects we will notice you.
 
 For us you will prove yourself by the amount of interaction with our projects. Contributions to discussions, completed issues, code reviews, documentation creation and improvements, etc these are just a few of the ways we will notice you. Your work will be proof of your commitment, interest and professionalism, as well as for your willingness to share and learn.
+
 In Open-Source it is easy to see anyone’s involvement, so you just have to contribute to get noticed.
 
 ## Company Employee Work Conditions
 
-To give you an idea of our employee work conditions here is summarized overview:
+To give you an idea of our employee work conditions here is a summarized overview:
 
 ### Perks
 
-Standard amount of vacation days equivalent to 23 work days
-Flexible work time with availability for meetings in a specific time range.
-Flexible location work setting (Home, or wherever he chooses to work from)
-Work equipment supplied by the company (computer, screens, mouse, keyboard, etc.)
-Additional home office equipment (table, chair)
+- Standard amount of vacation days equivalent to 23 work days
+- Flexible work time with availability for meetings in a specific time range.
+- Flexible location work setting (Home, or wherever you choose to work from)
+- Work equipment supplied by the company (computer, screens, mouse, keyboard, etc.)
+- Additional home office equipment (table, chair)
 
 ### Salary Ranges Developers
 
