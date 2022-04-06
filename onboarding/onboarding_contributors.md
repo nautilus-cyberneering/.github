@@ -26,7 +26,7 @@ This is the onboarding document for our new repository paid contributors.
 
 2. PGP
     - We sign commits and we have started collecting good documentation for GPG on [this repo](https://github.com/Nautilus-Cyberneering/GPG-Bootcamp). GitLab and GitHub docs are also a good starting point but sometimes they do not lead you to good practices.
-    - You will ready your 
+    - You will ready your development environment including GPG usage to contribute to our repositories.
 
 3. GitHub Actions
     - [Official documentaion](https://github.com/features/actions).
