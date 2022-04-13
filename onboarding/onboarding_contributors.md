@@ -18,6 +18,10 @@ This is the onboarding document for our new repository paid contributors.
 - We only have one regular meeting a week, which we usually use to share issues about the projects, and mid-term planning.
 - There can be other meetings from time to time where we will set future sprints or discuss project related topics.
 
+## Traning
+
+- Different team members will provide necessary training to new team members on certain topics to bring them up to speed. The training will be arranged in coordination with the new team member.
+
 ## List of tools that we use
 
 1. Git
