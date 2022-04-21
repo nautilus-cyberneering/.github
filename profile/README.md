@@ -108,7 +108,7 @@ Your contributions can take many forms, working code, new ideas for features, co
 We do not care much about CVs, whether you are a rookie or a senior, anyone can add value.
 It is your active collaboration that will speak for itself. When this is the case we will contact you and get to know you better and possibly offer different options.
 
-[Here is more detailed information on how we go about this topic and the conditions as an employee.](hiring/hiring_process.md)
+[Here is more detailed information on how we go about this topic and the conditions as an employee.](../hiring/hiring_process.md)
 
 <!--
 
