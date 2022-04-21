@@ -14,6 +14,7 @@ Now, paid contributors can be anyone whose contributions add value who are not j
 
 - Donations (patreon, etc.)
 - Invoice for freelancers
+- Invitation to join the team as an employee
 
 Unpaid contributors are also key to our project community’s progress. They actively add to our projects but do so in their spare time, for the sheer pleasure, and therefore not being able to spend more time on our projects.
 
@@ -29,7 +30,7 @@ In Open-Source it is easy to see anyone’s involvement, so you just have to con
 
 ## Company Employee Work Conditions
 
-To give you an idea of our employee work conditions here is a summarized overview:
+To give you an idea of our standard employee work conditions here is a summarized overview:
 
 ### Perks :mega:
 
@@ -45,9 +46,11 @@ To give you an idea of our employee work conditions here is a summarized overvie
 - Middle      25.001 - 39.999 €
 - Seniors     40.000 - 65.000 €
 
+*Note: The Range at each category is dependent on a yearly qualitative asessment of your work during the year by peers.*
+
 ## Requirements :page_with_curl:
 
-Needs to reside in one of the countries that we operate in with one of our companies:
+Needs to reside in one of the countries that we currently operate in with one of our companies:
 
 - Germany
 - Spain
