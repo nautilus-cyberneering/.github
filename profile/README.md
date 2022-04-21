@@ -93,9 +93,22 @@ All of our projects have documentation specific to themselves, such as contribut
 
 <https://github.com/Nautilus-Cyberneering/GPG-Bootcamp>
 
-## Licenses
+## Licenses 🧾
 
 The different repositories may have one or more licenses. These licenses can be found in a markdown file called "LICENSE.md"  in the main folders. In addition to this file, you may also find a folder called "Licensing". This folder is common when there is more than one applicable license. This can be the case when there is for example code and media in the same repository.
+
+## Paid Contributing & Hiring 👩‍💻 💸 👨‍💻
+
+We are an Open Source Company with Open Source projects so anyone interested in contributing can do so.
+We are looking for proactive, passionate and active contributors and if you are one we will notice you. It is very easy in an Open Source project.
+
+If you make qualitative contributions that help the team move the projects forward these will speak for themselves.
+Your contributions can take many forms, working code, new ideas for features, constructive comments in discussions, revisions, improvement suggestions, etc.
+
+We do not care much about CVs, whether you are a rookie or a senior, anyone can add value.
+It is your active collaboration that will speak for itself. When this is the case we will contact you and get to know you better and possibly offer different options.
+
+[Here is more detailed information on how we go about this topic and the conditions as an employee.](hiring\hiring_process.md)
 
 <!--
 
