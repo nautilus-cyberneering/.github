@@ -26,7 +26,7 @@ Given this we operate according to these values and we strive to create value wi
 
 ## Current In-House Expertise 🤓🕵️‍♀️🕵️‍♂️👩‍⚕️👨‍⚕️
 
-Our current internal developer employee members have on average more than 15 years of professional experience in the field. Some of the programming languages they have worked with extensively are Java, JS, Typescript, Python, etc. This fact implies also that they are comfortable in using the common related frameworks and tools realting to these languages.
+Our current internal developer employee members have on average more than 15 years of professional experience in the field. Some of the programming languages they have worked with extensively are Java, JS, Typescript, Python, etc. This fact implies also that they are comfortable in using the common related frameworks and tools used within these languages.
 
 In addition, several of them have also worked closely connected to relevant Blockchain implementations, as well as worked on software security for open-source and closed-source projects. All important elements that we will introduce in our projects.
 
