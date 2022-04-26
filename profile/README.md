@@ -24,6 +24,20 @@ Essentially, we care for:
 
 Given this we operate according to these values and we strive to create value with everything we do and share it with the community.
 
+## Current In-House Expertise 🤓🕵️‍♀️🕵️‍♂️👩‍⚕️👨‍⚕️
+
+Our current internal developer employee members have on average more than 15 years of professional experience in the field. Some of the programming languages they have worked with extensively are Java, JS, Typescript, Python, etc. This fact implies also that they are comfortable in using the common related frameworks and tools used within these languages.
+
+In addition, several of them have also worked closely connected to relevant Blockchain implementations, as well as worked on software security for open-source and closed-source projects. All important elements that we will introduce in our projects.
+
+## Growing In-House Expertise 👀 🧠 📖 🔍
+
+Our skill set is constantly growing as we explore the best ways to realize our long term project. For example when we work on our projects we sometimes take small detours. Such detours are to deepen our knowledge in areas that we consider important.
+
+As it usually is the case, during this process once we understand the topic at a deeper level we discover areas for improvement. An example of this are our Git-Queue and Librarian projects.
+
+The aim of these two spin-off projects are to facilitate automation for repositories which are an essential part for our project. While developing these two we had to deepen our understanding of how Git and GitHub work, and in the process we discovered some possible security enhancements that will benefit all repository users.
+
 ## Where are we located :earth_africa:
 
 Our company headquarters are located in Grünwald, a beautiful small town just outside of Munich, Germany. However, almost all of us are working remotely and we have team members in different countries.
@@ -109,6 +123,18 @@ We do not care much about CVs, whether you are a rookie or a senior, anyone can 
 It is your active collaboration that will speak for itself. When this is the case we will contact you and get to know you better and possibly offer different options.
 
 [Here is more detailed information on how we go about this topic and the conditions as an employee.](https://github.com/Nautilus-Cyberneering/.github/blob/main/hiring/hiring_process.md)
+
+## Other forms to contact us
+
+**Email:** info@nautilus-cyberneering.de
+
+**Telegram:**
+These groups are meant for anyone interested to start contributing or looking for more information regarding our projects. At events this group also serves to coordinate meetings with current team members of Nautilus Cyberneering at the venue.
+
+English - https://t.me/nautilus_cyberneering_en
+Spanish - https://t.me/nautilus_cyberneering_es
+
+
 
 <!--
 
