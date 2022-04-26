@@ -124,6 +124,18 @@ It is your active collaboration that will speak for itself. When this is the cas
 
 [Here is more detailed information on how we go about this topic and the conditions as an employee.](https://github.com/Nautilus-Cyberneering/.github/blob/main/hiring/hiring_process.md)
 
+## Other forms to contact us
+
+**Email:** info@nautilus-cyberneering.de
+
+**Telegram:**
+These groups are meant for anyone interested to start contributing or looking for more information regarding our projects. At events this group also serves to coordinate meetings with current team members of Nautilus Cyberneering at the venue.
+
+English - https://t.me/nautilus_cyberneering_en
+Spanish - https://t.me/nautilus_cyberneering_es
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
