@@ -40,6 +40,8 @@ To give you an idea of our standard employee work conditions here is a summarize
 - Work equipment supplied by the company (computer, screens, mouse, keyboard, etc.)
 - Additional home office equipment (table, chair)
 
+Taken from the: [Standard Employee Conditions](hiring/standard_employee_conditions.md)
+
 ### Salary Ranges Developers :money_with_wings: :moneybag:
 
 - Juniors     18.000 - 25.000 €
@@ -54,3 +56,7 @@ Needs to reside in one of the countries that we currently operate in with one of
 
 - Germany
 - Spain
+
+## Sample of available profiles
+
+- [Senior Developer](hiring\profile_senior_developer.md)
