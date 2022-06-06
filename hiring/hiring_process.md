@@ -40,7 +40,7 @@ To give you an idea of our standard employee work conditions here is a summarize
 - Work equipment supplied by the company (computer, screens, mouse, keyboard, etc.)
 - Additional home office equipment (table, chair)
 
-Taken from the: [Standard Employee Conditions](hiring/standard_employee_conditions.md)
+Taken from the: [Standard Employee Conditions](standard_employee_conditions.md)
 
 ### Salary Ranges Developers :money_with_wings: :moneybag:
 
@@ -59,4 +59,4 @@ Needs to reside in one of the countries that we currently operate in with one of
 
 ## Sample of available profiles
 
-- [Senior Developer](hiring\profile_senior_developer.md)
+- [Senior Developer](profile_senior_developer.md)
