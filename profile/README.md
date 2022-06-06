@@ -105,7 +105,7 @@ This is the list of repositories directly related to the POCs during the develop
 
 All of our projects have documentation specific to themselves, such as contribution guidelines, etc. However, we have some General documentation of interest for contributors that relate to security and using GitHub listed below.
 
-<https://github.com/Nautilus-Cyberneering/GPG-Bootcamp>
+<https://github.com/Nautilus-Cyberneering/secure-git-guide>
 
 ## Licenses 🧾
 
