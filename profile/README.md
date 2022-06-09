@@ -1,5 +1,10 @@
 # Hi There 👋 --- Welcome to our Organization's GitHub Page
 
+![Open Source](https://badgen.net/badge/Open%20Source/100%25/DA2CE7)
+![Cool](https://badgen.net/badge/Cool/100%25/FF7F50)
+![Awesome](https://badgen.net/badge/icon/awesome?icon=awesome&label)
+
+
 ## Who We Are :smiley: :alien: :sunglasses: 🙋‍♀️
 
 We are currently a small team of people working towards our long term vision. Our vision is to create open source software ecosystems, with a particular focus on AI and Machine Learning solutions.
