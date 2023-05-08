@@ -3,7 +3,7 @@
 ## Requirements
 
 - Passionate and experienced with Open-Source Development and Philosophy.
-- Independent worker and an active problem solver.
+- Autonomous worker and an active problem solver.
 - Many-years of active experience in Software Development.
 - Comfortable with the daily use of Office-English.
 
@@ -25,6 +25,7 @@
 
 ## Our Expectations
 
+- Used to define and structure technical solutions and champion them through the consensus building and review processes with colleagues.
 - Shares and collaborates on developing the team which involves training and tutoring others.
 - Open to work on our internal long term Open-Source project but also work on other projects for the company group.
 - Actively participates in our progress, voices opinions and gives fresh ideas and constructive feedback.

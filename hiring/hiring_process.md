@@ -58,5 +58,6 @@ Needs to reside in one of the countries that we currently operate in with one of
 - Spain
 
 ## Sample of available profiles
-
+- [Junior Developer](profile_junior_developer.md)
+- [Middle Developer](profile_middle_developer.md)
 - [Senior Developer](profile_senior_developer.md)
