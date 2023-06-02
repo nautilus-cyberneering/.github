@@ -74,11 +74,7 @@ Taken from the: [Standard Employee Conditions](standard_employee_conditions.md)
 
 *Note: The Range at each category is dependent on a yearly qualitative asessment of your work during the year by peers.*
 
-<<<<<<< HEAD
-#### Requirements :page_with_curl:
-=======
-## Requirements for an Employee :page_with_curl:
->>>>>>> main
+#### Requirements for an Employee :page_with_curl:
 
 Needs to speak English and reside in one of the countries that we currently operate in with one of our companies:
 
