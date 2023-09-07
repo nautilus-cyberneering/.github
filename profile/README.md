@@ -1,11 +1,76 @@
-# Hi There 👋 --- Welcome to our Organization's GitHub Page
+# Nautilus Cyberneering Github Organization
 
-![Open Source](https://badgen.net/badge/Open%20Source/100%25/DA2CE7)
-![Cool](https://badgen.net/badge/Cool/100%25/FF7F50)
-![Awesome](https://badgen.net/badge/icon/awesome?icon=awesome&label)
+Logo
+
+Badge Nautilus Website, Badge Torrust Website.
+
+## Welcome
+
+Nautilus Cyberneering SL, an upstart subsidiary of the Block Finance AG group, has the mission cultivate an open source software engineering and development team. This will provide strategic and practical advantages for the group.
+
+## History
+
+Originally started as Nautilus Cyberneering GmbH and based out of Germany, Block Finance AG wholly purchased the company and liquidate the original company structure, transferring all intellectual property and other rights to the group.
+
+Simultaneously, the group took inspiration of the business concept that Nautilus Cyberneering GmbH had and decided to re-create a similar company in the more favorable jurisdiction and climate of Las Palmas, Grand Canaria; thus Nautilus Cyberneering SL was born, the direct spiritual successor from Nautilus Cyberneering GmbH.
+
+## Goals
+
+Block Finance AG has significant need for in-group world-class computer science engineering and development capabilities, and is duly aware that establishing such capabilities in beautiful running and vibrant professional team quality is an non-trivial endeavour.
+
+Nautilus adopts the strategy of focusing sponsoring and facilitating the development of open-source projects as a way to gain real-world experience of software engineering, project management, and team building. The projects we focus on along with the associated languages and technologies, have been selected with the goal of being attractive for competent and passionate software engineers.
+
+The secondary goal of our sponsorship and facilitation of interesting open-source projects is that these projects may become successful in their own right; growing a vibrant and active community around them; positioning Nautilus with additional exposure and access to a sympathetic market of talented software engineers, developers, architects, testers, administrators, community focalises, and supportive end users.
+
+Nautilus success is to find itself surrounded with pools of brilliant talent that have accumulated from the natural community growth that accompanies healthy open-source projects. The entire Block Finance Group can draw from these well connect pools; giving the group access to great talent, and the community access to friendly professional employment and sponsorship opportunities.
+
+## Ethos
+
+Nautilus strongly accepts the reality that open-source software becomes dominant in the long-term; that the open-collaboration and competition of ideas leads the best outcomes succeeding, and that open-source exemplifies this in a very practical and real way.
+
+While there can be temporary advantage, particularly for new project or company in the to protect their "secret sauce", or source code, from competing eyes; Nautilus has the luxury for that its business foals are aligned orthogonal from market direct market product competition — instead we positioning ourselves to be attractive for great talent: whereas more loving attention towards our projects, either competitive or not, will directly contribute to our success.
+
+The Block Finance Group, like everyone, shares the fundamental grounding belief to be good and kind is the fundament of fulfillment: profit must in monetary success in harmony with the betterment world.
+
+Nautilus places great importance of being fair, kind, reasonable, transparent, intelligent, and empathetic. We wish to foster a culture of personal growth, leading to co-independence: where teams and individuals act in self-responsibility and cooperation. Our corporate structures continually evolve through self-and-group reflection; leading to a greater fostering our ethos in all parts of our operations.
+
+## Projects
+
+Since 2023, the primary focus of Nautilus has been on the Torrust Project:
+
+### Torrust
 
 
-## Who We Are :smiley: :alien: :sunglasses: 🙋‍♀️
+`Torrust` is a group of programs that allow for the better management of torrent collections. Nautilus made the commitment to strategically foster this project as it is confident that it is in close alignment with both the Ethos of the company, (and group), and the real company goal nearing itself to a very interesting natural talent pool.
+
+in particular, our ethos is can be expressed as a:
+
+- value of sharing and archival of information. (such as AI and experimental datasets)
+- interest of open networking systems, and standards.
+- indexing and protection of data for future generations.
+
+In addition, for more practical reasons:
+
+- rust is an interesting and increasingly popular programming language
+- there is large communities of passionate users of other torrent trackers and indexes
+
+#### Torrust Tracker
+
+A `Torrent Tracker` is a set of server services that allow for the torrent swam to match-make while optionally keeping useful statistics for better insight and choice making.
+
+The tracker connects peers who share the same torrent (infohash, i.e. a unique specifier for a torrent). A peer that is missing parts or all of the torrent data is then able to connect to other peers, and obtain the parts they are missing.
+
+The torrust tracker is unique as it is a modern implementation in the excellent rust programming language. We hope that this project will become well-used and provide a real benefit to many; and will attract a vibrant community around it's continued improvement and maintenance.
+
+#### Torrust Index
+
+A `Torrent Index` is a software that manages metadata associated, but not necessarily directly embedded inside, torrents. This allows users to find torrents that interest them. A popular example is the "accademictorrents" website. This website provides contextual information about a torrent; such as it's name, upload date, and relevant keywords or category.
+
+Torrent Indexes often all sorts of additional features, such as: user accounts, moderation, a blog, searching and filtering of results, and displaying statistics provided by connected trackers.
+
+Our torrust index is again unique in that it has a very modern design, using the rust programming language, and offers a good range of features.
+
+
 
 We are currently a small team of people working towards our long term vision. Our vision is to create open source software ecosystems, with a particular focus on AI and Machine Learning solutions.
 Our team is both made up of employees and external collaborators. We come from different professional backgrounds and countries.
