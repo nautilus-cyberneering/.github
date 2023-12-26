@@ -9,7 +9,7 @@ This is the onboarding document for our new repository paid contributors.
 
 ## Communication
 
-- We try to avoid private communication except for things like private data. GitHub issues, pull requests, GitHub discussions and comments are the things we mostly used.
+- We try to avoid private communication except for things like private data. GitHub issues, pull requests, GitHub discussions and comments are the things we mostly use.
 - Email.
 - We have a development Telegram chat.
 
@@ -18,7 +18,7 @@ This is the onboarding document for our new repository paid contributors.
 - We only have one regular meeting a week, which we usually use to share issues about the projects, and mid-term planning.
 - There can be other meetings from time to time where we will set future sprints or discuss project related topics.
 
-## Traning
+## Training
 
 - Different team members will provide necessary training to new team members on certain topics to bring them up to speed. The training will be arranged in coordination with the new team member.
 
@@ -53,6 +53,11 @@ This is the onboarding document for our new repository paid contributors.
 7. Linting
 
     - [MegaLinter](https://megalinter.github.io/latest/): 100% Open-Source tool for CI/CD workflows that analyzes consistency and quality.
+
+8. Rust
+
+    - [Rust language official website](https://www.rust-lang.org/)
+
 
 ## Our repositories
 
