@@ -131,7 +131,7 @@ It is your active collaboration that will speak for itself. When this is the cas
 
 ## Other forms to contact us
 
-**Email:** info@nautilus-cyberneering.de
+**Email:** info@nautilus-cyberneering.dev
 
 **Telegram:**
 These groups are meant for anyone interested to start contributing or looking for more information regarding our projects. At events this group also serves to coordinate meetings with current team members of Nautilus Cyberneering at the venue.
